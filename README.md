@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Detection-Project-
 Credit Card Fraud Detection Project Code, Document And Video Tutorial
 
+![Credit Card (1)](https://github.com/user-attachments/assets/0dfaac88-eda5-42d7-ab32-2cdcfa01d0aa)
+
 ## Youtube link: https://youtu.be/CiEnP4xE0dY?si=HQsfNKUKKnnHPeCM
 
 ## Abstract
